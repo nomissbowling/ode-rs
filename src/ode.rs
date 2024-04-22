@@ -13,12 +13,10 @@
 //! from
 //!
 //!  - include/bridge.hpp
-//!  - ode/ode.hpp (from modified preprocess -E dum.cpp includes ode.h)
 //!
 //! to
 //!
 //!  - include/bridge_bindings.rs
-//!  - ode/ode_bindings.rs
 //!
 //! # Requirements
 //!
