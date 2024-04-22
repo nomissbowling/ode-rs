@@ -34,7 +34,8 @@ Requirements
 - [https://github.com/nomissbowling/ode-base](https://github.com/nomissbowling/ode-base)
 - [https://crates.io/crates/drawstuff](https://crates.io/crates/drawstuff)
 - [https://github.com/nomissbowling/drawstuff](https://github.com/nomissbowling/drawstuff)
-- [ https://github.com/nomissbowling/asciiz ]( https://github.com/nomissbowling/asciiz )
+- [https://crates.io/crates/asciiz](https://crates.io/crates/asciiz)
+- [https://github.com/nomissbowling/asciiz](https://github.com/nomissbowling/asciiz)
 
 to build dll
 
