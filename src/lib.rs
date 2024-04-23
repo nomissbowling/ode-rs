@@ -1,4 +1,4 @@
-#![doc(html_root_url = "https://docs.rs/ode-rs/0.0.2")]
+#![doc(html_root_url = "https://docs.rs/ode-rs/1.0.1")]
 //! ODE Open Dynamics Engine for Rust
 //!
 //! # Requirements
@@ -32,8 +32,9 @@
 //! - [https://github.com/nomissbowling/ode-rs-0000](https://github.com/nomissbowling/ode-rs-0000)
 //!
 
-pub mod ode;
-pub mod colors;
+pub mod ds;
+pub use drawstuff::drawstuff::*;
+pub use oyk::*;
 
 #[cfg(test)]
 mod tests {
