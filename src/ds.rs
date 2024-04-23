@@ -217,4 +217,16 @@ impl Drawstuff {
   pub fn new() -> Self {
     Drawstuff{}
   }
+  /// dispose
+  pub fn dispose(&mut self) {
+    ()
+  }
+}
+
+/// Drop for Drawstuff
+impl Drop for Drawstuff {
+  /// drop
+  fn drop(&mut self) {
+    self.dispose();
+  }
 }
