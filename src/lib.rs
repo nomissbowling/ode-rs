@@ -1,4 +1,4 @@
-#![doc(html_root_url = "https://docs.rs/ode-rs/1.1.1")]
+#![doc(html_root_url = "https://docs.rs/ode-rs/1.1.2")]
 //! ODE Open Dynamics Engine for Rust
 //!
 //! # Requirements
